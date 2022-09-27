@@ -1,6 +1,6 @@
 
 <div align="center">
-<h1 align="center">Hi, I'm Oscar</h1>
+<h1 align="center">Hi, I'm Oscar Gonzalez</h1>
 <h4 align="center">Physicist and aspiring Software Engineer at 42 Barcelona</h4>
 </div>
 
