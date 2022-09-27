@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl4nxxx7w020009mdmpbkiyt4/stats?cursusId=21&coalitionId=205" alt="ogonzale's 42 stats" /></a>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl8khi1nk00730gmotke3kl34/stats?cursusId=21&coalitionId=204" alt="ogonzale's 42 stats" /></a>
 </p>
 
 <div align="center">
